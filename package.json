@@ -11,5 +11,13 @@
     "http-server": "^0.12.1"
   },
   "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eighonet/Webdev-Integer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eighonet/Webdev-Integer/issues"
+  },
+  "homepage": "https://github.com/Eighonet/Webdev-Integer#readme",
   "description": ""
 }
